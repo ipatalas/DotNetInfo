@@ -108,3 +108,4 @@ Backup*/
 UpgradeLog*.XML
 /Build/DotNetInfo.wdx
 /Build/DotNetInfo.wdx64
+/Build/wdx_dotnetinfo.7z
