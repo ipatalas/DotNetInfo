@@ -1,0 +1,5 @@
+[plugininstall]
+description=.NET Information about assemblies
+type=wdx
+file=DotNetInfo.wdx
+defaultdir=wdx_dotnetinfo
